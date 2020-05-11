@@ -1,6 +1,6 @@
 # TextMining
 
-Quellcode zu Projektgruppe Textmining vom WS 19/20
+Quellcode zur Projektgruppe Textmining vom WS 19/20
 
 # Anleitung
 Zum Ausführen des Quellcodes steht eine run.sh bereit. Das Programm selber wurde mit Python geschrieben und benötigt eine aktuelle Version auf dem PC.
